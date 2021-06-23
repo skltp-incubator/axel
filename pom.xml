@@ -140,7 +140,7 @@
         <jaxrs.version>2.1.1</jaxrs.version>
         <jaxws.version>2.2.12</jaxws.version>
         <jcommander.version>1.30</jcommander.version>
-        <jetty.version>9.4.12.v20180830</jetty.version>
+        <jetty.version>9.4.41.v20210516</jetty.version>
         <joda-time.version>2.2</joda-time.version>
         <karaf.version>2.4.0</karaf.version>
         <make-it-easy.version>3.1.0</make-it-easy.version>
